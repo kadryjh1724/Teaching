@@ -7,5 +7,5 @@ Lecture notes and problem sets for "2021 SNU CNS summer major school" program, <
 ### Please do not distribute or re-edit without my permission.
 If you figure out critical or minor errors, let me know: I will fix it myself.
 
-## Topics_in_my_major
-19 selected stories in my mind.
+## WI2022_PChem1
+Lecture notes for "2022 SNU CNS winter major school" program, <Physical Chemistry 1> course.
