@@ -20,6 +20,9 @@ def deltaE(m, n):
 def lamda(m, n):
     return hc / deltaE(m, n)
 
+# cmap for realistic color, retrieved from
+# https://stackoverflow.com/questions/44959955/matplotlib-color-under-curve-based-on-spectral-color
+
 def wavelength_to_rgb(wavelength, gamma=0.8):
     ''' taken from http://www.noah.org/wiki/Wavelength_to_RGB_in_Python
     This converts a given wavelength of light to an 
